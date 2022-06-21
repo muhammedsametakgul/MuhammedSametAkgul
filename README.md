@@ -2,4 +2,4 @@
 
 👀 I’m interested in software
 
-🌱 I’m currently learning Java 
+🌱 I’m currently learning Java,Kotlin and C# 
