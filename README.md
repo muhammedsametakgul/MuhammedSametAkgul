@@ -1,5 +1,4 @@
 👋 Hi, I’m Muhammed Samet Akgül
-
-👀 I’m interested in software
-
-🌱 I’m currently learning Java,Kotlin and C# 
+🏫Currently at Fırat University
+👀 I’m interested in software,technologies,programming,engineering,searching something new
+💻 I’m currently learning Java,Kotlin,C# and Python 
