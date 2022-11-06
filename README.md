@@ -15,8 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammed samet akgül" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed samet akgül" height="30" width="40" /></a>
-
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammed-samet-akgül-047876225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammed-samet-akgül-047876225/" height="30" width="40" /></a>
 <a href="https://instagram.com/m_samet_akgul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_samet_akgul" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/msametakgul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="msametakgul" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/akguls853" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akguls853" height="30" width="40" /></a>
@@ -28,6 +27,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedsametakgul&show_icons=true&locale=en&layout=compact" alt="muhammedsametakgul" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedsametakgul&show_icons=true&locale=en" alt="muhammedsametakgul" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedsametakgul&" alt="muhammedsametakgul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedsametakgul&" alt="muhammedsametakgul" /></p>
 
