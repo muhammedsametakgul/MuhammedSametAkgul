@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedsametakgul&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedsametakgul" /> </p>
 
-- 🔭 I’m currently working on **Jetpack Compose**
+- 🔭 I’m currently working on **Kotlin and Python**
 
-- 🌱 I’m currently learning **Kotlin,C#,Java,SQL,Python**
+- 🌱 I’m currently learning **Kotlin,C#,Java,Python**
 
 - 💬 Ask me about **Android**
 
