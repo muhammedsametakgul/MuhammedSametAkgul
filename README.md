@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Kotlin, Python and Java**
 
-- 🌱 I’m currently learning **Kotlin,C#,Java,Python**
+- 🌱 I’m currently learning **Kotlin,Java,and Python**
 
 - 💬 Ask me about **Android**
 
