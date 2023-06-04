@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **msametakgul@gmail.com**
 
-- 📖 I am writing articles on  **https://medium.com/@SametAkgul**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
