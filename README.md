@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring, Spring Boot,Hibernate**
 
-- 💬 Ask me about **Spring, Spring Boot and Hibernate**
+- 💬 Ask me about **Spring and Spring Boot **
 
 - 📫 How to reach me **msametakgul@gmail.com**
 
