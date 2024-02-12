@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Backend technologies**
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS, ReactJS,Spring and Hibernate**
+- 🌱 I’m currently learning **Spring Boot, Spring Cloud, Microservices, NodeJS, ExpressJS and, ReactJS**
 
 - 📝 I regularly write articles on [https://medium.com/@SametAkgul](https://medium.com/@SametAkgul)
 
