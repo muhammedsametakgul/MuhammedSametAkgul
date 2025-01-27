@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend technologies<br><br>🌱 I’m currently learning Spring Boot, Spring Cloud, Microservices, NodeJS, ExpressJS and, ReactJS<br><br>📝 I regularly write articles on https://medium.com/@SametAkgul<br><br>💬 Ask me about Backend<br><br>📫 How to reach me msametakgul@gmail.com
-
+🔭 I’m currently working on Backend technologies<br><br>🌱 I’m currently learning Spring Boot, Spring Cloud, Microservices, NodeJS, ExpressJS and, ReactJS<br><br>📝 
 
 <details>
   <summary>
